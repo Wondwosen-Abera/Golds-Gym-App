@@ -1,6 +1,6 @@
 ## Gold's Gym
 
-. Gold's Gym is a web application that allows users to explore various exercises targeting different body parts and provides instructional video tutorials for a comprehensive fitness experience.
+Gold's Gym is a web application that allows users to explore various exercises targeting different body parts and provides instructional video tutorials for a comprehensive fitness experience.
 
 🚀 Features
 . Search Exercises: Easily find exercises based on specific muscle groups or equipment.
@@ -34,6 +34,6 @@ Exercise Details
 . Explore the live application here: [Gold's Gym Live](https://golds-gym-workouts.netlify.app/).
 
 🛠️ Future Enhancements
-. Personalized workout plans.
+ Personalized workout plans.
 . User authentication for saving favorite exercises.
 . Integrate additional features like calorie tracking or diet suggestions.
