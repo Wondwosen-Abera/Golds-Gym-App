@@ -35,7 +35,7 @@ Exercise Details
 
 🌐 Live Demo
 
- - Explore the live application here: [Gold's Gym Live](https://golds-gym-workouts.netlify.app/).
+ - Explore the live application here: [Gold's Gym Live](https://goldsgymzone.netlify.app/).
 
 🛠️ Future Enhancements
 - Personalized workout plans.
